@@ -161,7 +161,7 @@ npm start
 <img src="./assets/demo1.png" />
 
 ### Retrieval Visualization and Generated Response
-<img src="./assests/demo2.png" />
+<img src="./assets/demo2.png" />
 
 
 ---
