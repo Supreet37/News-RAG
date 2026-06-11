@@ -1,0 +1,6 @@
+{
+  "name": "RAG Knowledge Assistant",
+  "description": "Retrieval-Augmented Generation (RAG) assistant for indexing and answering questions from custom documents.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
